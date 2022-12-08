@@ -8,8 +8,8 @@ My Repositories:
 - 🟫 Other
 
 Status:
-- 🟩 Done
-- 🟥 In Progress...
+- Done 🟩
+- In Progress... 🟥
 
 
 <!---
