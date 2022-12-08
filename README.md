@@ -2,10 +2,14 @@
 - 🌱 I’m just learning
 
 My Repositories:
-- 🟪 Experiments
-- 🟦 Exercises
-- 🟩 Proyects
-- 🟫 Others
+- 🟪 Experiment
+- 🟦 Exercise
+- 🟨 Proyect
+- 🟫 Other
+
+Status:
+- 🟩 Done
+- 🟥 In Progress...
 
 
 <!---
