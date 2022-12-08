@@ -2,10 +2,10 @@
 - 🌱 I’m just learning
 
 My Repositories:
-- 🟣 Experiments
-- 🔵 Exercices
-- 🟢 Proyects
-- ⚫ Others
+- 🟪 Experiments
+- 🟦 Exercises
+- 🟩 Proyects
+- 🟫 Others
 
 
 <!---
