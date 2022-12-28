@@ -10,7 +10,7 @@ My Repositories:
 Status:
 - 🟩 Done
 - 🟥 In Progress...
-
+- 🔗 Pages
 
 <!---
 LCS32/LCS32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
